@@ -1,4 +1,4 @@
 # spring-math-operation
 
-used Gradle, istead of maven.
+used Gradle, instead of maven.
 
